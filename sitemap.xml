@@ -10,6 +10,11 @@
 
 <url>
   <loc>https://redboxgamestudios.github.io/</loc>
+  <xhtml:link 
+                 rel="alternate"
+                 hreflang="en"
+                 href="https://redboxgamestudios.github.io/"
+                 />
     <image:image>
        <image:loc>https://redboxgamestudios.github.io/img/SlidingBox-Icons-1024x1024.png</image:loc>
        <image:caption>Sliding Box Klotski game icon</image:caption>
