@@ -36,7 +36,7 @@
         <div class="container">
           <h1 class="masthead-heading mb-0">RedboX</h1>
           <h2 class="masthead-subheading mb-0">Game Studios</h2>
-          <a href="#" class="btn btn-primary btn-xl rounded-pill mt-5">Learn More</a>
+          <a href="#" onclick="scrollWin();" class="btn btn-primary btn-xl rounded-pill mt-5">Learn More</a>
         </div>
       </div>
       <div class="bg-circle-1 bg-circle"></div>
@@ -115,7 +115,11 @@
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
+    <script>
+      function scrollWin() {
+        window.scrollTo(0,document.body.scrollHeight);
+      }
+    </script>
   </body>
 
 </html>
