@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
@@ -9,29 +10,22 @@
 
 <url>
   <loc>https://redboxgamestudios.github.io/</loc>
-  
-  <image:image>
+    <image:image>
        <image:loc>https://redboxgamestudios.github.io/img/SlidingBox-Icons-1024x1024.png</image:loc>
        <image:caption>Sliding Box Klotski game icon</image:caption>
-    </image:image>
-     
+    </image:image>   
      <image:image>
        <image:loc>https://redboxgamestudios.github.io/img/slidingPuzzle.png</image:loc>
        <image:caption>Sliding Box Klotski game advertise icon</image:caption>
-    
     </image:image>
-         <image:image>
+    <image:image>
        <image:loc>https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png</image:loc>
        <image:caption>Sliding Box Klotski game google web badges icon</image:caption>
     </image:image>
-    
     <image:image>
        <image:loc>https://redboxgamestudios.github.io/img/3D-Box-768x896.png</image:loc>
        <image:caption>Red box game studios logo</image:caption>
     </image:image>
-
   <lastmod>2018-05-15T18:55:39+00:00</lastmod>
 </url>
-
-
 </urlset>
